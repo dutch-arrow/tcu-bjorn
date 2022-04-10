@@ -47,16 +47,11 @@
 // Devices
 #define LIGHT1          0
 #define LIGHT2          1
-#define LIGHT3          2
-#define LIGHT4          3
-#define LIGHT5          4
-#define LIGHT6          5
-#define SPRAYER         6
-#define MIST            7
-#define PUMP            8
-#define FAN_IN          9
-#define FAN_OUT        10
-#define NR_OF_DEVICES  11
+#define UVLIGHT         2
+#define SPRAYER         3
+#define FAN_IN          4
+#define FAN_OUT         5
+#define NR_OF_DEVICES   6
 
 /*****************
     Structs
